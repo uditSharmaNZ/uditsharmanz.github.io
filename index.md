@@ -1,8 +1,8 @@
 # Udit Sharma
 
-_Software Development Engineer (and sometimes technical ) based in New Zealand_ <br>
+_Software Development Engineer with expertise in Angular and .Net framework based in New Zealand_ <br>
 
-[Email](mailto:ush13@uclive.ac.nz) / [LinkedIn](https://www.linkedin.com/in/udit-sharma-nz/) / [GitHub](https://github.com/uditsharmanz/)
+[Email](mailto:ush13@uclive.ac.nz) | [LinkedIn](https://www.linkedin.com/in/udit-sharma-nz/) | [GitHub](https://github.com/uditsharmanz/)
 
 ## 👨‍🔬 Work Experience
 
