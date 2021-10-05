@@ -1,13 +1,13 @@
 # Udit Sharma
 
-_Software engineer based in Christchurch, New Zealand_ <br>
+_Software Development Engineer (and sometimes technical ) based in New Zealand_ <br>
 
 [Email](mailto:ush13@uclive.ac.nz) / [LinkedIn](https://www.linkedin.com/in/udit-sharma-nz/) / [GitHub](https://github.com/uditsharmanz/)
 
-## 👩🏼‍💻 Technical Experience
+## 👩🏼‍💻 Work Experience
 
 **Software Development Engineer** @ [Verizon Connect, Christchurch](https://www.verizonconnect.com/nz/) _(Jun 2018 - Present)_ <br>
-Fleet management platform and GPS vehicle tracking software for logistic companies
+Fleet management platform and GPS vehicle tracking software
   - Responsible for development and maintenance of applications made with 
   - Assist in the design and development of new products/ projects, informing senior executives of alternatives
   - Develop and implement solutions in accordance with policies and procedures
@@ -17,16 +17,28 @@ Fleet management platform and GPS vehicle tracking software for logistic compani
   - Crisp communication with 3LS App Support team for quick resolution of customer cases
   - Participate in hackathons and arrange meetups to improve knowledge sharing within team
 
-  - **_Technologies used:_** .Net Core C#, Angular, React, SQL Server, PostgreSQL, Android(Kotlin), AWS
+**_Technologies used:_** .Net Core C#, Angular, React, SQL Server, PostgreSQL, Android(Kotlin), AWS
 <br><br>
 
 **Intern** @ [UC Center for Entrepreneurship, Christchurch](https://www.canterbury.ac.nz/business/uce/) _(Nov 2017 - Feb 2018)_ <br>
-[Summer Startup Program](https://www.canterbury.ac.nz/business/uce/summerstartup/) is a program for students to build their venture while engaging with industry experts and experience entrepreneurs.
+[Summer Startup Program](https://www.canterbury.ac.nz/business/uce/summerstartup/) is a program for students to build their startup venture while learning from industry experts and experience entrepreneurs.
   - Work in a lean environment to develop an entrepreneurial venture
   - Working knowledge of frontend optimisation and performance techniques
   - Communicate with mentors and industry leaders for requirements gathering and product viability
 
-  - **_Technologies used:_** NodeJs, Handlebars, Heroku
+**_Technologies used:_** NodeJs, ExpressJs, Handlebars, MongoDB, Heroku
+<br><br>
+
+## 🏭 Professional Projects
+
+**Angular microsites/ .Net Core Microservices** _(Feb 2020 - Present)_ <br>
+    - Developed key components in the microsites using Angular 9 within time constraints
+    - Spearheaded code migration from team in Dublin while quickly resolving customer bugs on less familiar codebase
+    - Arranged knowledge sharing sessions for team to better understand domain knowledge
+    - Upgraded the microsites code to Angular 11
+    - Acted as the key point of contact and created high quality documentation in Confluence by team
+
+**_Technologies used:_** .Net Core C#, Angular, SQL Server, AWS
 <br><br>
 
 ## 💬 Languages
