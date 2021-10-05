@@ -4,7 +4,7 @@ _Software Development Engineer (and sometimes technical ) based in New Zealand_ 
 
 [Email](mailto:ush13@uclive.ac.nz) / [LinkedIn](https://www.linkedin.com/in/udit-sharma-nz/) / [GitHub](https://github.com/uditsharmanz/)
 
-## 👩🏼‍💻 Work Experience
+## 👨‍🔬 Work Experience
 
 **Software Development Engineer** @ [Verizon Connect, Christchurch](https://www.verizonconnect.com/nz/) _(Jun 2018 - Present)_ <br>
 Fleet management platform and GPS vehicle tracking software
@@ -32,11 +32,11 @@ Fleet management platform and GPS vehicle tracking software
 ## 🏭 Professional Projects
 
 **Angular microsites/ .Net Core Microservices** _(Feb 2020 - Present)_ <br>
-    - Developed key components in the microsites using Angular 9 within time constraints
-    - Spearheaded code migration from team in Dublin while quickly resolving customer bugs on less familiar codebase
-    - Arranged knowledge sharing sessions for team to better understand domain knowledge
-    - Upgraded the microsites code to Angular 11
-    - Acted as the key point of contact and created high quality documentation in Confluence by team
+  - Developed key components in the microsites using Angular 9 within time constraints
+  - Spearheaded code migration from team in Dublin while quickly resolving customer bugs on less familiar codebase
+  - Arranged knowledge sharing sessions for team to better understand domain knowledge
+  - Upgraded the microsites code to Angular 11
+  - Acted as the key point of contact and created high quality documentation in Confluence by team
 
 **_Technologies used:_** .Net Core C#, Angular, SQL Server, AWS
 <br><br>
@@ -47,7 +47,7 @@ Fleet management platform and GPS vehicle tracking software
 **German**: B1
 <br><br>
 
-## 👩🏼‍🎓 Education
+## 👨‍🎓 Education
 
 **Post Graduate Diploma in Computer Science** with focus on Applied Data Science<br>
 [University of Canterbury](https://www.canterbury.ac.nz/) - Christchurch, New Zealand <br>
