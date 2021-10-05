@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+# Udit Sharma
 
-You can use the [editor on GitHub](https://github.com/uditSharmaNZ/uditsharmanz.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+_Software engineer based in Christchurch, New Zealand_ <br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Email](mailto:ush13@uclive.ac.nz) / [LinkedIn](https://www.linkedin.com/in/udit-sharma-nz/) / [GitHub](https://github.com/uditsharmanz/)
 
-### Markdown
+## 👩🏼‍💻 Technical Experience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Software Development Engineer** @ [Verizon Connect, Christchurch](https://www.verizonconnect.com/nz/) _(Jun 2018 - Present)_ <br>
+Fleet management platform and GPS vehicle tracking software for logistic companies
+  - Responsible for development and maintenance of applications made with 
+  - Assist in the design and development of new products/ projects, informing senior executives of alternatives
+  - Develop and implement solutions in accordance with policies and procedures
+  - Prepare and dispense work assignments, provide guidance and review work of other team members
+  - Collaborate with QA team to define test cases, metrics and resolve questions about test results
+  - Work with UI/UX team to design and implement best design practises and consistent user interfaces
+  - Crisp communication with 3LS App Support team for quick resolution of customer cases
+  - Participate in hackathons and arrange meetups to improve knowledge sharing within team
 
-```markdown
-Syntax highlighted code block
+  - **_Technologies used:_** .Net Core C#, Angular, React, SQL Server, PostgreSQL, Android(Kotlin), AWS
+<br><br>
 
-# Header 1
-## Header 2
-### Header 3
+**Intern** @ [UC Center for Entrepreneurship, Christchurch](https://www.canterbury.ac.nz/business/uce/) _(Nov 2017 - Feb 2018)_ <br>
+[Summer Startup Program](https://www.canterbury.ac.nz/business/uce/summerstartup/) is a program for students to build their venture while engaging with industry experts and experience entrepreneurs.
+  - Work in a lean environment to develop an entrepreneurial venture
+  - Working knowledge of frontend optimisation and performance techniques
+  - Communicate with mentors and industry leaders for requirements gathering and product viability
 
-- Bulleted
-- List
+  - **_Technologies used:_** NodeJs, Handlebars, Heroku
+<br><br>
 
-1. Numbered
-2. List
+## 💬 Languages
 
-**Bold** and _Italic_ and `Code` text
+**English**: Fluent <br>
+**German**: B1
+<br><br>
 
-[Link](url) and ![Image](src)
-```
+## 👩🏼‍🎓 Education
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Post Graduate Diploma in Computer Science** with focus on Applied Data Science<br>
+[University of Canterbury](https://www.canterbury.ac.nz/) - Christchurch, New Zealand <br>
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/uditSharmaNZ/uditsharmanz.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Bachelor of Engineering** in Electronics Engineering<br>
+[Panjab University](https://www.puchd.ac.in/) - Chandigarh, India
