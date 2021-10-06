@@ -1,8 +1,35 @@
 # Udit Sharma
 
 _Software Development Engineer based in Christchurch, New Zealand_ <br>
+_Most skilled in `Angular` and `.Net Core`_ <br>
 
 [Email](mailto:ush13@uclive.ac.nz) / [LinkedIn](https://www.linkedin.com/in/udit-sharma-nz/) / [GitHub](https://github.com/uditsharmanz/)
+
+## 📌 Skill Highlights
+
+<div class="row">
+  <div style="float: left;width: 50%;">
+    <ul>
+      <li>Agile/Kanban methodology</li>
+      <li>Proficiency: Typescript, C#</li>
+      <li>Prior experience: JavaScript, Kotlin, SQL, R, Java, C/C++, Python</li>
+      <li>Frontend development: Angular, React, jQuery, Handlebars</li>
+      <li>Backend web development: .Net Core, ASP.Net, NodeJs, GraphQL</li>
+      <li>Database : MS SQL Server, Postgres, MongoDB</li>
+    </ul>
+  </div>
+  <div style="float: left;width: 50%;">
+    <ul>
+      <li>Mobile app development: Android, Ionic</li>
+      <li>Performance metrics: Appdynamics, Mixpanel</li>
+      <li>Cloud platforms : AWS, Azure, Heroku, GCP</li>
+      <li>CI/CD: Octopus Deploy, TeamCity, Circle CI</li>
+      <li>Message Queues: RabbitMQ, AWS Kinesis</li>
+      <li>Cache systems: Redis, Memcache (Elasticache)</li>
+    </ul>
+  </div>
+</div>
+<br><br>
 
 ## 👨‍🔬 Work Experience
 
