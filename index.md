@@ -8,7 +8,6 @@ _Most skilled in `Angular` and `.Net Core`_ <br>
 ***
 ## 📌 Skill Highlights
 
-<html>
 <div>
   <div style="float: left;width: 50%;">
     <ul>
@@ -31,9 +30,7 @@ _Most skilled in `Angular` and `.Net Core`_ <br>
     </ul>
   </div>
 </div>
-</html>
-
-**_Summary:_** Accomplished, forward-looking software engineer with 3+ years of experience and thorough knowledge of all levels of software development. Expertise in Angular and .Net frameworks with a proven track record of developing and administering robust applications within given timeframes.
+&nbsp;
 
 ***
 ## 👨‍💻 Work Experience
