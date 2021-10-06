@@ -5,9 +5,11 @@ _Most skilled in `Angular` and `.Net Core`_ <br>
 
 [Email](mailto:ush13@uclive.ac.nz) / [LinkedIn](https://www.linkedin.com/in/udit-sharma-nz/) / [GitHub](https://github.com/uditsharmanz/)
 
+***
 ## 📌 Skill Highlights
 
-<div class="row">
+<html>
+<div>
   <div style="float: left;width: 50%;">
     <ul>
       <li>Agile/Kanban methodology</li>
@@ -29,6 +31,7 @@ _Most skilled in `Angular` and `.Net Core`_ <br>
     </ul>
   </div>
 </div>
+</html>
 <br><br>
 
 ## 👨‍🔬 Work Experience
