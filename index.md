@@ -32,9 +32,11 @@ _Most skilled in `Angular` and `.Net Core`_ <br>
   </div>
 </div>
 </html>
-<br><br>
 
-## 👨‍🔬 Work Experience
+**_Summary:_** Accomplished, forward-looking software engineer with 3+ years of experience and thorough knowledge of all levels of software development. Expertise in Angular and .Net frameworks with a proven track record of developing and administering robust applications within given timeframes.
+
+***
+## 👨‍💻 Work Experience
 
 **Software Development Engineer** @ [Verizon Connect, Christchurch](https://www.verizonconnect.com/nz/) _(Jun 2018 - Present)_ <br>
 Fleet management platform and GPS vehicle tracking software
