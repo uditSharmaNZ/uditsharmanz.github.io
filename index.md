@@ -1,7 +1,7 @@
 # Udit Sharma
 
 _Software Development Engineer based in Christchurch, New Zealand_ <br>
-_Most skilled in `Angular` and `.Net Core`_ <br>
+Most skilled in `Angular` and `.Net Core`<br>
 
 [Email](mailto:ush13@uclive.ac.nz) / [LinkedIn](https://www.linkedin.com/in/udit-sharma-nz/) / [GitHub](https://github.com/uditsharmanz/)
 
@@ -32,6 +32,66 @@ _Most skilled in `Angular` and `.Net Core`_ <br>
 </div>
 &nbsp;
 
+
+***
+## 🏭 Professional Projects
+
+**Angular microsites/ .Net Core Microservices** _(Feb 2020 - Present)_ <br>
+  - Developed key components in the microsites using Angular 9 within time constraints
+  - Spearheaded code migration from team in Dublin while quickly resolving customer bugs on less familiar codebase
+  - Arranged knowledge sharing sessions for team to better understand domain knowledge
+  - Upgraded the microsites code to Angular 11
+  - Acted as the key point of contact and created high quality documentation in Confluence by team
+
+**_Technologies used:_** .Net Core (C#), Angular, SQL Server, AWS
+<br><br>
+
+**Angular microsites/ .Net Core Microservices** _(Oct 2020 - Nov 2020)_ <br>
+  - Developed a lazy loaded Angular component using Angular 9
+  - Implemented Angular code scaffolding mechanism into new and existing microsites across the organization
+  - Created comprehensive documentation for other teams to integrate the component
+  - Provided support to other teams in various time zones to troubleshoot issues in integration of shared components in their microsite
+
+
+**_Technologies used:_** Angular, Redux, NodeJs
+<br><br>
+
+**Geofence Alerts** _(Nov 2019 - Mar 2020)_ <br>
+  - Developed messaging queue for devices to send notifications to microsites when crossing defined geofences
+  - Implemented message queue using RabbitMQ to consume geofence events from an AWS Kinesis data stream
+  - Implemented a notification system in legacy codebase
+  - Integrated the notification system with legacy notification APIs and CQRS codebases responsible for logging and email/sms notifications
+
+**_Technologies used:_** ASP .Net, Rabbit MQ, AWS Kinesis, SVN
+<br><br>
+
+**Native Android application** _(Jul 2019 - Oct 2020)_ <br>
+  - Developed a PoC for a native Android application using Kotlin language
+  - Implemented svg animations using Lottie package for Android framework
+  - Created comprehensive documentation and arranged knowledge sharing sessions on future scope
+
+**_Technologies used:_** Android, Kotlin, ExpressJs
+<br><br>
+
+**Customizable BI dashboard** _(Jun 2018 - Jun 2019)_ <br>
+  - Developed a PoC for a customizable BI dashboard for vehicles using React
+  - Implemented real time data fetching using SocketIO on the frontend
+  - Worked as part of Data visualisation team and coordinate with UX team to improve user’s data insights
+  - Accelerate data retrieval speed to end users by implementing caching mechanism in Redis
+  - Develop application with informative data visualisations driven by complex SQL queries on Postgres database
+
+**_Technologies used:_** React, ExpressJs, SocketIO, Redux, Highcharts, Redis, TeamCity
+<br><br>
+
+**E-commerce Web application** _(May 2018 - Jun 2018)_ <br>
+  - Develop an [e-commerce web application](https://www.korure.com/) intended at increasing company revenue and ease of use
+  - Communicate with stakeholders and share knowledge about product listings and offers
+  - Develop responsive application with best practices 
+
+**_Technologies used:_** Handlebars, ExpressJS, Stripe, Heroku
+
+<br><br>
+
 ***
 ## 👨‍💻 Work Experience
 
@@ -58,24 +118,16 @@ Fleet management platform and GPS vehicle tracking software
 **_Technologies used:_** NodeJs, ExpressJs, Handlebars, MongoDB, Heroku
 <br><br>
 
-## 🏭 Professional Projects
 
-**Angular microsites/ .Net Core Microservices** _(Feb 2020 - Present)_ <br>
-  - Developed key components in the microsites using Angular 9 within time constraints
-  - Spearheaded code migration from team in Dublin while quickly resolving customer bugs on less familiar codebase
-  - Arranged knowledge sharing sessions for team to better understand domain knowledge
-  - Upgraded the microsites code to Angular 11
-  - Acted as the key point of contact and created high quality documentation in Confluence by team
-
-**_Technologies used:_** .Net Core C#, Angular, SQL Server, AWS
-<br><br>
-
+***
 ## 💬 Languages
 
 **English**: Fluent <br>
 **German**: B1
 <br><br>
 
+
+***
 ## 👨‍🎓 Education
 
 **Post Graduate Diploma in Computer Science** with focus on Applied Data Science<br>
