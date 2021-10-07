@@ -37,7 +37,7 @@ Most skilled in `Angular` and `.Net Core`<br>
 ## 🏭 Professional Projects
 
 
-**:angular-brands:Angular microsites/ .Net Core Microservices** _(Feb 2020 - Present)_ <br>
+**Angular microsites/ .Net Core Microservices** _(Feb 2020 - Present)_ <br>
   - Developed key components in the microsites using Angular 9 within time constraints
   - Spearheaded code migration from team in Dublin while quickly resolving customer bugs on less familiar codebase
   - Arranged knowledge sharing sessions for team to better understand domain knowledge
