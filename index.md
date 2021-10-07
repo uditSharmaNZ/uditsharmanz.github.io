@@ -66,7 +66,7 @@ Most skilled in `Angular` and `.Net Core`<br>
 <br><br>
 
 **Native Android application** _(Jul 2019 - Oct 2020)_ <br>
-  - Developed a PoC for a native Android application using Kotlin language
+  - Developed a PoC for a native [Android application](https://play.google.com/store/apps/details?id=com.telogis.workplan&hl=en&gl=US) using Kotlin language
   - Implemented svg animations using Lottie package for Android framework
   - Created comprehensive documentation and arranged knowledge sharing sessions on future scope
 
@@ -89,8 +89,8 @@ Most skilled in `Angular` and `.Net Core`<br>
   - Develop responsive application with best practices 
 
 **_Technologies used:_** Handlebars, ExpressJS, Stripe, Heroku
-
 <br><br>
+
 
 ***
 ## 👨‍💻 Work Experience
@@ -120,11 +120,19 @@ Fleet management platform and GPS vehicle tracking software
 
 
 ***
+## Achievements
+  - Fronted work mentioned in Verizon’s [youtube](https://youtu.be/COseONzbdcg?t=38) product channel along with recognition in team meetings
+  - Finalist teams in intra - company global hackathons in 2018 and 2020
+  - [Winner](https://www.gbjnz.com/blog/2018/teams-of-startup-weekend-christchurch-2018) (team) at Startup Weekend Christchurch 2018 organized by Techstars
+  - [Finalist](https://www.canterbury.ac.nz/business/uce/news/2018/startup-weekend-uce-students-in-top-3-teams.html) at UC Summer Startup Program 2018 organized by Ernst and Young NZ
+  - Selected for computer vision application development in 2017 by Fulton Hogan Auckland
+<br>
+
+***
 ## 💬 Languages
 
 **English**: Fluent <br>
 **German**: B1
-<br><br>
 
 
 ***
