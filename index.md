@@ -36,7 +36,7 @@ Most skilled in `Angular` and `.Net Core`<br>
 ***
 ## 🏭 Professional Projects
 
-**Angular microsites/ .Net Core Microservices** _(Feb 2020 - Present)_ <br>
+**<i class="fab fa-angular"></i>Angular microsites/ .Net Core Microservices** _(Feb 2020 - Present)_ <br>
   - Developed key components in the microsites using Angular 9 within time constraints
   - Spearheaded code migration from team in Dublin while quickly resolving customer bugs on less familiar codebase
   - Arranged knowledge sharing sessions for team to better understand domain knowledge
@@ -120,7 +120,7 @@ Fleet management platform and GPS vehicle tracking software
 
 
 ***
-## Achievements
+## 🏆 Achievements
   - Fronted work mentioned in Verizon’s [youtube](https://youtu.be/COseONzbdcg?t=38) product channel along with recognition in team meetings
   - Finalist teams in intra - company global hackathons in 2018 and 2020
   - [Winner](https://www.gbjnz.com/blog/2018/teams-of-startup-weekend-christchurch-2018) (team) at Startup Weekend Christchurch 2018 organized by Techstars
