@@ -47,7 +47,7 @@ Most skilled in `Angular` and `.Net Core`<br>
 **_Technologies used:_** .Net Core (C#), Angular, SQL Server, AWS
 <br><br>
 
-**Angular microsites/ .Net Core Microservices** _(Oct 2020 - Nov 2020)_ <br>
+**Shared Angular components and scaffolding** _(Oct 2020 - Nov 2020)_ <br>
   - Developed a lazy loaded Angular component using Angular 9
   - Implemented Angular code scaffolding mechanism into new and existing microsites across the organization
   - Created comprehensive documentation for other teams to integrate the component
@@ -96,7 +96,14 @@ Most skilled in `Angular` and `.Net Core`<br>
 ***
 ## 👨‍💻 Work Experience
 
-**Software Development Engineer** @ [Verizon Connect, Christchurch](https://www.verizonconnect.com/nz/) _(Jun 2018 - Present)_ <br>
+**Team Lead** @ [Verizon Connect, Christchurch](https://www.verizonconnect.com/nz/) _(Sep 2021 - Present)_ <br>
+Fleet management platform and GPS vehicle tracking software
+  - Responsible mentoring and guiding team members
+  - Communicate with stakeholders during status update meetings
+  - Conduct knowledge sharing sessions for team 
+  - Organize team building activities
+
+**Software Development Engineer** @ [Verizon Connect, Christchurch](https://www.verizonconnect.com/nz/) _(Jun 2018 - Aug 2021)_ <br>
 Fleet management platform and GPS vehicle tracking software
   - Responsible for development and maintenance of applications made with 
   - Assist in the design and development of new products/ projects, informing senior executives of alternatives
