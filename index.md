@@ -3,7 +3,7 @@
 _Software Development Engineer based in Christchurch, New Zealand_ <br>
 Most skilled in `Angular` and `.Net Core`<br>
 
-[Email](mailto:ush13@uclive.ac.nz) / [LinkedIn](https://www.linkedin.com/in/udit-sharma-nz/) / [GitHub](https://github.com/uditsharmanz/)
+[Email](mailto:sharmaudit@icloud.com) / [LinkedIn](https://www.linkedin.com/in/udit-sharma-nz/) / [GitHub](https://github.com/uditsharmanz/)
 
 ***
 ## 📌 Skill Highlights
