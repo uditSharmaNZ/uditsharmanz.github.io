@@ -96,12 +96,15 @@ Most skilled in `Angular` and `.Net Core`<br>
 ***
 ## 👨‍💻 Work Experience
 
-**Team Lead** @ [Verizon Connect, Christchurch](https://www.verizonconnect.com/nz/) _(Sep 2021 - Present)_ <br>
+**Team Lead** @ [Verizon Connect, Christchurch](https://www.verizonconnect.com/nz/) _(Sep 2021 - Nov 2021)_ <br>
 Fleet management platform and GPS vehicle tracking software
   - Responsible mentoring and guiding team members
   - Communicate with stakeholders during status update meetings
   - Conduct knowledge sharing sessions for team 
   - Organize team building activities
+
+**_Technologies used:_** .Net Core C#, Angular, SQL Server, AWS
+<br><br>
 
 **Software Development Engineer** @ [Verizon Connect, Christchurch](https://www.verizonconnect.com/nz/) _(Jun 2018 - Aug 2021)_ <br>
 Fleet management platform and GPS vehicle tracking software
