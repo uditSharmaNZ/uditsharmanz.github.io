@@ -149,7 +149,7 @@ Fleet management platform and GPS vehicle tracking software
 ***
 ## 👨‍🎓 Education
 
-**Post Graduate Diploma in Computer Science** with focus on Applied Data Science<br>
+**Postgraduate Diploma in Computer Science** with focus on Applied Data Science<br>
 [University of Canterbury](https://www.canterbury.ac.nz/) - Christchurch, New Zealand <br>
 
 **Bachelor of Engineering** in Electronics Engineering<br>
