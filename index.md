@@ -97,12 +97,12 @@ Most skilled in `Angular` and `.Net Core`<br>
 ## 👨‍💻 Work Experience
 
 **Software Development Engineer** @ [BNZ, Wellington](https://www.bnz.co.nz/) _(Dec 2021 - Present)_ <br>
-Bank of New Zealand is New Zealand's largest 
+Bank of New Zealand is New Zealand's largest bank
   - Responsible for development and maintenance of applications made with C# and Java
   - Assist in the design and development of new products/ projects, informing senior executives of alternatives
   - Develop and implement solutions in accordance with policies and procedures
 
-**_Technologies used:_** .Net Core C#, Java, SQL Server, Azure
+**_Technologies used:_** .Net Core C#, Java, IBM Websphere, SQL Server, Azure, Jenkins
 <br><br>
 
 
